@@ -1,7 +1,7 @@
 # CleaningDataAssignment
 Assignment for Getting &amp; Cleaning Data Course
 
-The file mean.std.data contains all training and test observations where each row contains one observation of information read for a given subject, for a given activity, observed at a certain time…
+The file mean.std.data contains all training and test observations where each row contains one of a number of observation of information read for a given subject, for a given activity, observed at a certain time.
 The file average.by.subject.and.activity summarised mean.st.data by subject and activity.
 
 The variable columns are the means and standard deviations of the various features.
